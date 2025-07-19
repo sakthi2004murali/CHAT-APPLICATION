@@ -57,5 +57,10 @@ Adding typing indicators to show when a user is typing, enhancing interactivity.
 
 This real-time chat application project demonstrates the ability to integrate frontend and backend technologies to create live, interactive web experiences. It is a classic example of full-stack development, bridging server-side event broadcasting with client-side dynamic updates. Moreover, it reflects industry-level requirements where real-time features such as chat, notifications, live feeds, or collaborative editors are integral parts of user engagement strategies in applications ranging from social media platforms to productivity tools.
 
+*OUTPUT*
+
+<img width="959" height="1015" alt="Image" src="https://github.com/user-attachments/assets/b1dc8937-d0fc-426c-a148-fb9a64edf387" />
+<img width="957" height="1014" alt="Image" src="https://github.com/user-attachments/assets/9b79fc2e-937f-4aef-afd0-57a4b2b0091f" />
+
 In conclusion, this project submission for CodTech internship reflects not only the technical skill of implementing WebSockets using Socket.io but also the deeper understanding of real-time communication, event handling, and user-centric application design. It serves as a foundation for developing advanced real-time systems in future academic projects or professional software development roles.
 
